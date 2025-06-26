@@ -19,7 +19,7 @@ driver name `sqlite3`.
 # manually via Go modules you can attempt other installation instructions.
 
 # Install sqlboiler sqlite3 driver
-go get -u -t github.com/volatiletech/sqlboiler-sqlite3
+go get -u -t github.com/aarondl/sqlboiler-sqlite3
 # Generate models
 sqlboiler sqlite3
 ```

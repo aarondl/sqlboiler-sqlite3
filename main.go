@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/volatiletech/sqlboiler-sqlite3/driver"
-	"github.com/volatiletech/sqlboiler/v4/drivers"
+	"github.com/aarondl/sqlboiler-sqlite3/driver"
+	"github.com/aarondl/sqlboiler/v4/drivers"
 )
 
 func main() {
